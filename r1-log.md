@@ -8,3 +8,4 @@ The log of my #100DaysOfCode challenge. Started on [April, Sunday, 2025].
 Completing the Odic project introductions sections
 
 ### R1D2
+Continue learnign the Odin project 
