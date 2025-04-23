@@ -9,3 +9,6 @@ Completing the Odic project introductions sections
 
 ### R1D2
 Continue learnign the Odin project 
+
+### R1D3
+Learn the difference between OS and CPU. Continue Odin project
